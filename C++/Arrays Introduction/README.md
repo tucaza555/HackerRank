@@ -10,7 +10,7 @@ int arr[10]; //Declares an array named arr of size 10, i.e, you can store 10 int
 
 Accessing elements of an array:
 ```
-Indexing in arrays starts from 0.So the first element is stored at arr[0],the second element at arr[1] and so on through arr[9].
+Indexing in arrays starts from 0. So the first element is stored at arr[0],the second element at arr[1] and so on through arr[9].
 ```
 You will be given an array of ***N*** integers and you have to print the integers in the reverse order.
 

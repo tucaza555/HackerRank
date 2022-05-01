@@ -5,12 +5,8 @@
 #include <algorithm>
 using namespace std;
 
-void arr(int x) {
-    
-}
-
 int main() {
-int n, q;
+    int n, q;
     cin >> n >> q;
 
     int *mtr[n];

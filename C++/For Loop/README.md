@@ -1,4 +1,4 @@
-[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop)
+<a href="https://www.hackerrank.com/challenges/c-tutorial-for-loop" target="_blank">For Loop</a>
 
 A for loop is a programming language statement which allows code to be repeatedly executed.
 

@@ -1,3 +1,5 @@
+[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output)
+
 # Objective
 In this challenge, we practice reading input from stdin and printing output to stdout.
 

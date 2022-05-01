@@ -20,6 +20,6 @@ Print **Hello, World!** to stdout.
 
 
 Sample Output
-```
+```cpp
 Hello, World!
 ```

@@ -12,5 +12,7 @@ Note that neither method adds a newline. It only prints what you tell it to.
 Output Format
 Print "Hello, World!" to stdout.
 
+'''
 Sample Output
 > Hello, World!
+'''

@@ -1,3 +1,5 @@
+[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer)
+
 A pointer in C++ is used to share a memory address among different contexts (primarily functions). They are used whenever a function needs to modify the content of a variable, but it does not have ownership.
 
 In order to access the memory address of a variable, ***val***, prepend it with ***&*** sign. For example, &val returns the memory address of ***val***.

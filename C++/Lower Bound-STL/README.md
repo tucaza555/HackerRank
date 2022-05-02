@@ -10,7 +10,7 @@ Note: If the same number is present multiple times, you have to print the first 
 
 ### Constraints
 - ***1 <= N <= 10<sup>5</sup>***
-- ***1 <= X<sub>i</sub> <= 10<sup>9</sup>***, where ***X<sub>i</sub> is i<sup>th</sup> element in the array.
+- ***1 <= X<sub>i</sub> <= 10<sup>9</sup>***, where ***X<sub>i</sub>*** is ***i<sup>th</sup>*** element in the array.
 - ***1 <= Q <= 10<sup>5</sup>***
 - ***1 <= Y <= 10<sup>9</sup>***  
 

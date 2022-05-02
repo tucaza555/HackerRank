@@ -27,19 +27,11 @@ class Box {
     private:
         int length, breadth, height;
     public:
-        Box() : length{0}, breadth {0}, height{0} 
-        {
-            
-        }
+        Box() : length{0}, breadth {0}, height{0} {}
         
-        Box(int l, int b, int h) : length{l}, breadth {b}, height{h}  
-        {
-            
-        }
+        Box(int l, int b, int h) : length{l}, breadth {b}, height{h} {}
         
-        Box(Box *box) : length{box->length}, breadth {box->breadth}, height{box->height}  {
-            
-        }
+        Box(Box *box) : length{box->length}, breadth {box->breadth}, height{box->height} {}
         
         int getLength() {
             return length;

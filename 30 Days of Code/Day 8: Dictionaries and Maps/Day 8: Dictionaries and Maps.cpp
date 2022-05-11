@@ -22,9 +22,7 @@ int main() {
         m.insert(make_pair(a, b));
     }
     
-    for(int i = 0; i < q; i++) {
-        cin >> a;
-        
+    while(cin>>a) {
         if (m.find(a) != m.end()) {
             cout << m.find(a)->first << "=" << m.find(a)->second << endl;
         } else {

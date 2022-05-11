@@ -14,23 +14,23 @@ int main() {
     int q; string a; long b;
     
     cin >> q;
-    cin.ignore();
     
-    while(q--) {
+    for(int i = 0; i < q; i++) {
         
         cin >> a >> b;
         
-        m[a] = b;
+        m.insert(make_pair(a, b));
     }
     
-    while(cin >> a) { 
+    for(int i = 0; i < q; i++) {
+        cin >> a;
+        
         if (m.find(a) != m.end()) {
             cout << m.find(a)->first << "=" << m.find(a)->second << endl;
         } else {
-            cout << "Not Found" << endl;
+            cout << "Not found" << endl;
         }
     }
-    
     
     return 0;
 }

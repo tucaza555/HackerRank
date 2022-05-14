@@ -38,8 +38,8 @@ Print a single base-***10*** integer that denotes the maximum number of consecut
 ```
 ### Explanation
 
-Sample Case 1:
+Sample Case 1:  
 The binary representation of ***5<sub>10</sub>*** is ***101<sub>2</sub>***, so the maximum number of consecutive ***1***'s is ***2***.
 
-Sample Case 2:
+Sample Case 2:  
 The binary representation of ***13<sub>10</sub>*** is ***1101<sub>2</sub>***, so the maximum number of consecutive ***1***'s is ***2***.
